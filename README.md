@@ -19,6 +19,3 @@
 - Laravel 
 - Lumen
 
-## Interests
-- Tertarik mempelajari teknologi terbaru dalam pengembangan website dengan performa yang baik
-
